@@ -1,2 +1,7 @@
 # The-Sparks-Foundation-Internship
-Link to the dataset : http://bit.ly/w-data
+
+### Prediction of student's score using Simple Linear Regression
+
+*Link to the dataset* : http://bit.ly/w-data
+
+
